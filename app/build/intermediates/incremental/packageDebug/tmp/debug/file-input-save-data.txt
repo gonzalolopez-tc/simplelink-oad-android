@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Sep 08 11:37:50 ART 2021
+0.base=/Users/gonzalolopez/Desktop/simplelink-ble-oad-android-1.0.0/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=ble5_project_zero_cc26x2r1lp_app_FlashROM_Release_oad.bin
+0.baseType=DIRECTORY
+1.set=ASSET
+1.base=/Users/gonzalolopez/Desktop/simplelink-ble-oad-android-1.0.0/app/build/intermediates/assets/debug
+0.set=DEX
